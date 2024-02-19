@@ -11,7 +11,7 @@ To use the tool:
 
       $ python3 IDSGuard.py
 
-# IMPORTANT
-Dont forget to run the tool with administrativ priviledges and schange the email addredded in the code!
+<h3>IMPORTANT</h3>
+Dont forget to run the tool with administrative priviledges and change the email addresses in the code!
 
 # Enjoy
