@@ -23,9 +23,9 @@ cprint(' sniffing... ', 'yellow')
 syn_count = 0
 failed_login_attempts = {}
 
-sender_email = "secguardrelq@gmail.com"
-receiver_email = "radioheadl1515@gmail.com"
-password = "nhhlskdthicnoggc"
+sender_email = "email address"
+receiver_email = "email address"
+password = "the password of the email address"
 subject = "IDSGuard: Security Alert!"
 
 def send_email(body):
