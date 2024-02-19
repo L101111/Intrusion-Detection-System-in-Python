@@ -9,7 +9,7 @@
 To use the tool:
 
 
-      $ python3 IDSGuard.py
+      $ sudo python3 IDSGuard.py
 
 <h3>IMPORTANT</h3>
 Dont forget to run the tool with administrative priviledges and change the email addresses in the code!
