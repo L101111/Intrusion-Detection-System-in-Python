@@ -14,4 +14,5 @@ To use the tool:
 <h3>IMPORTANT</h3>
 Dont forget to run the tool with administrative priviledges and change the email addresses in the code!
 
+<img src='https://github.com/L101111/Intrusion-Detection-System-in-Python/blob/main/screen2.png' width='400px'/>
 # Enjoy
